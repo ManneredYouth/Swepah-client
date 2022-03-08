@@ -2,16 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <table>
-      <tr>
-        <th>bruh</th>
-        <th>bruh2</th>
-      </tr>
-      <tr>
-        <td>bruh</td>
-        <td>bruh2</td>
-      </tr>
-    </table>
+    <h1>Welcome to the Swepah Network. nya~</h1>
   )
 }
 
